@@ -1,6 +1,6 @@
 Presentation: UI & UX
     - Pages
-    - Provider (State management)
+    - Bloc (State management)
     - Widgets
 
 Business: Security, caches, logs, exeptions, validations
