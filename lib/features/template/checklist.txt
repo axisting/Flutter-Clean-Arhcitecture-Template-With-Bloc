@@ -1,0 +1,6 @@
+1. Convert Template into Feature
+2. Flow
+    - Bloc(Add required params)
+    - Pages (Widgets)
+    - Datasource remote
+    - Bloc uses
